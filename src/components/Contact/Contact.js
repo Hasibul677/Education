@@ -74,6 +74,7 @@ const Contact = () => {
           <hr className="border-1 border-indigo-800 w-80 mx-auherf mb-8" />
           <div className="mx-8 mb-8 py-3">
             <h1 className="font-extrabold">Follow US</h1>
+            {/* using fontaesome icon */}
             <div className="font-semibold mx-5 mt-5">
               <a
                 href="https://facebook.com/"

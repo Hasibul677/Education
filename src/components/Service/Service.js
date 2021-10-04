@@ -1,9 +1,10 @@
 import React from 'react';
-import {NavLink,useParams } from 'react-router-dom';
+import {NavLink} from 'react-router-dom';
 
 const Service = (props) => {
-  const {contactId} = useParams()
+  // distructuring for for clean code
     const{id, name, fee, courseStart, endCourse, img, teacher,discription} = props.course;
+    
     return (
       <div className="p-12 md:w-1/2 flex flex-col items-start">
         <img className='w-full h-80 mt-5 rounded-2xl' src={img} alt="" />
