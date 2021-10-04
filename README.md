@@ -1,6 +1,6 @@
 # EDUCATION FOR DEVELOPER
 
-This project using Tailwind with [Create React App](https://hasibul-educal.netlify.app/).
+This project using Tailwind with [Live Site](https://hasibul-educal.netlify.app/).
 
 ## Using Tools
 
